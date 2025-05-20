@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "name": "steffy",
+      "email": "steffy.23vds@sode-edu.in",
+      "mobile": "9765647789",
+      "gender": "female",
+      "address": "brahmavar"
+    },
+    {
+      "id": "456",
+      "name": "steffy daniel",
+      "email": "steffy6@gmail.com",
+      "mobile": "6762864784",
+      "gender": "female",
+      "address": "udupi"
+    }
+  ]
+}
